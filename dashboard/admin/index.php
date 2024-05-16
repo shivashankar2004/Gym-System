@@ -84,7 +84,7 @@ page_protect();
 					
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
 						<h2>Income</h2>
-						<?php
+						 <?php
 							date_default_timezone_set("Asia/Calcutta"); 
 							$date  = date('Y-m');
 							$query = "select * from enrolls_to WHERE  paid_date LIKE '$date%'";
@@ -103,7 +103,8 @@ page_protect();
 							    }
 							}
 							echo "".$revenue;
-							?>
+							?> 
+				
 						</div>
 				</div></a>
 			</div>

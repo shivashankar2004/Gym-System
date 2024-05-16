@@ -1,4 +1,5 @@
 
+<!-- id="main-menu" going to be removed -->
 <ul id="main-menu" class="" >
 			
     <li id="dash"><a href="index.php"><i class="entypo-gauge"></i><span>Dashboard</span></a></li>
@@ -51,22 +52,22 @@
 
 		<ul id="routineExpand">
 			<li class="active">
-				<a href="addroutine.php"><span>Add Routine</span></a>
+				<a><span>Add Routine</span></a>
 			</li>
 
 			<li>
-				<a href="editroutine.php"><span>Edit Routine</span></a>
+				<a ><span>Edit Routine</span></a>
 			</li>
 
 			<li>
-				<a href="viewroutine.php"><span>View Routine</span></a>
+				<a><span>View Routine</span></a>
 			</li>
 
 		</ul>
 
 	</li>
 
-	<li id="adminprofile"><a href="more-userprofile.php"><i class="entypo-folder"></i><span>Profile</span></a></li>
+	<li id="adminprofile"><a><i class="entypo-folder"></i><span>Profile</span></a></li>
 
 	<li><a href="logout.php"><i class="entypo-logout"></i><span>Logout</span></a></li>
 

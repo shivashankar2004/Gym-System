@@ -73,7 +73,8 @@ if(isset($_SESSION["user_data"]))
 			</form>
 		
 				<div class="login-bottom-links">
-					<a href="forgot_password.php" class="link">Forgot your password?</a>
+					<!-- removed forgot password href -->
+					<a class="link">Forgot your password?</a>
 				</div>			
 		</div>
 		
