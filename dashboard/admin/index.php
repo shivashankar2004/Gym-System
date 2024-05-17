@@ -79,7 +79,7 @@ page_protect();
 
 			<hr>
 
-			<div class="col-sm-3"><a href="revenue_month.php">			
+			<div class="col-sm-3"><a >			
 				<div class="tile-stats tile-red">
 					
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
@@ -135,7 +135,7 @@ page_protect();
 				<div class="tile-stats tile-aqua">
 					
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
-						<h2>New Members</h2>
+						<h2>Trainers</h2>
 							<?php
 							date_default_timezone_set("Asia/Calcutta"); 
 							$date  = date('Y-m');
@@ -180,7 +180,7 @@ page_protect();
 
 			
    
-    	<?php include('footer.php'); ?>
+    	
 </div>
 
   

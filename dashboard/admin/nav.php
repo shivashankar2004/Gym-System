@@ -16,8 +16,8 @@
 			<li><a href="table_view.php"><span>View Memeber</span></a></li>
 		</ul>
 	</li>
-
-	<li id="health_status"><a href="new_health_status.php"><i class="entypo-user-add"></i><span>Health Status</span></a> 	
+      <!-- removed href="new_health_status.php" -->
+	<li id="health_status"><a ><i class="entypo-user-add"></i><span>trainer</span></a> 	
 
 		<li class="" id="planhassubopen"><a href="#" onclick="memberExpand(2)"><i class="entypo-quote"></i><span>Plan</span></a>
 
@@ -48,19 +48,19 @@
 
 		</ul>
 
-	<li class="" id="routinehassubopen"><a href="#" onclick="memberExpand(4)"><i class="entypo-alert"></i><span>Exercise Routine</span></a>
+	<li class="" id="routinehassubopen"><a href="#" onclick="memberExpand(4)"><i class="entypo-alert"></i><span>Exercises</span></a>
 
 		<ul id="routineExpand">
 			<li class="active">
-				<a><span>Add Routine</span></a>
+				<a><span>cardio</span></a>
 			</li>
 
 			<li>
-				<a ><span>Edit Routine</span></a>
+				<a ><span>weight-lifting</span></a>
 			</li>
 
 			<li>
-				<a><span>View Routine</span></a>
+				<a><span>calisthetics</span></a>
 			</li>
 
 		</ul>
