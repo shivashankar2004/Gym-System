@@ -131,7 +131,7 @@ page_protect();
 				</div></a>
 			</div>	
 				
-			<div class="col-sm-3"><a href="over_members_month.php">			
+			<div class="col-sm-3"><a >			
 				<div class="tile-stats tile-aqua">
 					
 						<div class="num" data-postfix="" data-duration="1500" data-delay="0">
