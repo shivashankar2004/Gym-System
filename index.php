@@ -101,7 +101,7 @@ body {
         <div class="login-header login-caret">
             <div class="login-content">
                 <h1>GYM MANAGEMENT</h1>
-                <!-- progress bar indicator -->
+                
                 <div class="login-progressbar-indicator">
                     <h3>43%</h3>
                     <span>logging in...</span>
