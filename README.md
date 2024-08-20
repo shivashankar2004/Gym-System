@@ -58,7 +58,7 @@ Modify existing subscription plans to suit evolving member needs.
 
 
 
-### TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
 + Frontend: HTML, CSS, JavaScript
 + Backend: PHP
